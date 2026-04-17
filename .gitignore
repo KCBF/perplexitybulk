@@ -1,0 +1,27 @@
+# Output/result directories
+result/
+result2/
+
+# Third-party repos
+perplexity-ai-export/
+
+# Archives
+*.zip
+
+# Node
+node_modules/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
